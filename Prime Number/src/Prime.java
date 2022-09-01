@@ -3,7 +3,7 @@ public class Prime {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-       int a=1,b=200;       //
+       int a=100,b=200;       //
       for(int i=a;i<=b;i++)  {  //for loop 
     	 if(checkPrime(i)){// check number is less than or equal to 200
     		   System.out.println(i+" ");
